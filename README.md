@@ -1,3 +1,4 @@
-# 番茄教程
+# 番茄盒子
 
-Emm...
+[Clash 番茄教程](/clash)
+[Telegram 电报提要](/telegram)
